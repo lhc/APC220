@@ -1,7 +1,4 @@
 // Base TX Arduino Mega
-
-#include <SPI.h>
-
 //Variavel que armazena os caracteres recebidos
 char buf;
 
