@@ -7,7 +7,7 @@ A programação do módulo é feita por software através de um dispositivo USB 
 É possível a utilização em projetos que necessitam de controle remoto para Drones, Roovers, Robos, etc. Funciona conectado diretamente a um PC ou à dispositivos de IoT. Possui uma antena removível que pode ser substituída por uma de maior ganho adequada à frequência utilizada.<br>
 Realizamos alguns testes de transmissão e de distância com alguns módulos. Os resultados podem ser encontrados abaixo junto com os códigos utilizados.<br> 
 
-Para mais informações: https://lhc.net.br/wiki/APC220
+Para mais informações: https://lhc.net.br/w/index.php?title=APC220
 
 #Data Log
 24/04/2016 - Experimento 1 - ~200 Metros na rua do LHC.
